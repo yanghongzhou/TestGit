@@ -9,6 +9,6 @@ public class Test {
     }
 
     private   void test(int a, String b) {
-
+        System.out.println();
     }
 }
