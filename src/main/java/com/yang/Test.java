@@ -5,5 +5,10 @@ public class Test {
         System.out.println("Hello ");
         String aa = "skjelksposeo";
          System.out.println("Hello Boy");
+        test(1,"2");
+    }
+
+    private   void test(int a, String b) {
+
     }
 }
